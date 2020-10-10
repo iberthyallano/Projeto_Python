@@ -1,0 +1,3 @@
+Meu arquivo para ser lido pelo python.
+Olá python, como você está?
+Espero que esteja lendo cada parte.
