@@ -1,4 +1,5 @@
-#calculadora2.py
+#-*- coding: utf-8 -*-
+
 class Potencia:
     def __init__(self,a,b):
         self.base = a;
