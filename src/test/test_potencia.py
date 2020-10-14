@@ -1,4 +1,4 @@
-from ..Potencia import Potencia
+from .Potencia import Potencia
 
 p = Potencia(2, 2);
 print(p.resultPotencia());#2² = 4
